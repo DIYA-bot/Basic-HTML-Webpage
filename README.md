@@ -1,2 +1,23 @@
 # Basic HTML Webpage
-This is a beginner-level project that demonstrates the structure and elements of a basic HTML webpage. It includes essential HTML tags such as headings, paragraphs, images, links, lists, and forms. The goal of this project is to understand how to build a simple static webpage using only HTML.  🚀 Features Structured layout using HTML5 semantic elements  Headings, paragraphs, and lists  Images and hyperlinks    Use of <div>, <span>, and other block/inline elements
+# 🌐 Basic HTML Webpage
+
+This is a beginner-level project that demonstrates the structure and elements of a basic HTML webpage. It includes essential HTML tags such as:
+
+- Headings
+- Paragraphs
+- Images
+- Links
+- Lists
+- Forms
+## 📷 Preview
+![Webpage Screenshot] 
+## 📁 Files Included
+- `index.html` – Main HTML file
+- `icon.png` – Favicon/icon image
+- Screenshots – Preview images of the webpage
+- `.gitattributes` – Git configuration
+## 🚀 How to Use
+1. Download the repository or clone it:
+   ```bash
+   git clone https://github.com/DIYAbot/Basic-HTML-Webpage.git
+
