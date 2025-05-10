@@ -20,7 +20,8 @@ This is a beginner-level project that demonstrates the structure and elements of
 1. Download the repository or clone it:
    ```bash
    git clone-- https://github.com/DIYA-bot/Basic-HTML-Webpage.git
-   ## Project URL: https://github.com/DIYA-bot/Basic-HTML-Webpage
+   ## Project URL:  
+   https://roadmap.sh/projects/basic-html-website
 
    
 
