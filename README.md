@@ -19,5 +19,5 @@ This is a beginner-level project that demonstrates the structure and elements of
 ## 🚀 How to Use
 1. Download the repository or clone it:
    ```bash
-   git clone https://github.com/DIYAbot/Basic-HTML-Webpage.git
+   git clone-- https://github.com/DIYA-bot/Basic-HTML-Webpage.git
 
